@@ -14,3 +14,7 @@ When the dev wants to create a experimental solution. The team works on the bran
 How do the diagrams help you visualize the branch structure?
 Gives the clear idea of the reachability of the code and its maintainance
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+After merging, the head points to latest commit in master and the master has all the commits of the merged branch as well.
+The diagram shows the git logic of refering the git commit traceability.
+
