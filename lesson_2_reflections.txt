@@ -11,4 +11,6 @@ By just adding only those files which are for this logical change in the staging
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When the dev wants to create a experimental solution. The team works on the branch and does the commit till the solution is demoed. If it is approved, later the branch would be merged into master.
 
+How do the diagrams help you visualize the branch structure?
+Gives the clear idea of the reachability of the code and its maintainance
 
