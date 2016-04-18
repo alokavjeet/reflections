@@ -18,3 +18,12 @@ What is the result of merging two branches together? Why do we represent it in t
 After merging, the head points to latest commit in master and the master has all the commits of the merged branch as well.
 The diagram shows the git logic of refering the git commit traceability.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+It merges logical conflicts itself without the user inteference and its fast
+Cons:
+It can't resolve the complex conflicts itself as it doesn't know the intention of the users.
+
+
+
+
